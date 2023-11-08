@@ -16,3 +16,5 @@ I learn a lot of stuff relate to data science skills. This bootcamp
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on linkedin https://www.linkedin.com/in/nara-tuniam-81b33a1a1/
